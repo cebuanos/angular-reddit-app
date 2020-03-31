@@ -1,4 +1,11 @@
-# AngularReddit
+# Angular Single Reddit
+
+The objective is develop a Angular Single Reddit using MVC structure, the user will input a new article and once submit completed, automaticall display in the list of article items. Each article, users has option to VoteUP and VoteDown
+
+These are the component nedded:
+- Angular App
+- Article Model
+- Article Component
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
